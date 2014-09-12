@@ -1,7 +1,8 @@
 Python-Django-Polls-App
 =======================
+<p>Django is a free and open source web application framework, written in Python.</p>
 
-<h3>Creation of a basic poll application</h3>
+<h4>Creation of a basic poll application</h4>
 
 It’ll consist of two parts:
 
@@ -9,3 +10,6 @@ It’ll consist of two parts:
   <li>A public site that lets people view polls and vote in them.</li>
   <li>An admin site that lets you add, change and delete polls.</li>
 </ol>
+
+
+Django is a free and open source web application framework, written in Python
