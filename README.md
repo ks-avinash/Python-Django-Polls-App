@@ -1,6 +1,6 @@
 Python-Django-Polls-App
 =======================
-<p>Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+<p align="justify">Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly. </p>
 
 <h4>Creation of a basic poll application</h4>
