@@ -1,9 +1,11 @@
 Python-Django-Polls-App
 =======================
 
-Creation of a basic poll application
+<h3>Creation of a basic poll application</h3>
 
 It’ll consist of two parts:
 
-A public site that lets people view polls and vote in them.
-An admin site that lets you add, change and delete polls.
+<ol>
+  <li>A public site that lets people view polls and vote in them.</li>
+  <li>An admin site that lets you add, change and delete polls.</li>
+</ol>
