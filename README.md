@@ -12,4 +12,3 @@ It’ll consist of two parts:
 </ol>
 
 
-Django is a free and open source web application framework, written in Python
